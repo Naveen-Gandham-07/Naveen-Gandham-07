@@ -25,7 +25,7 @@
 <td width="60%" valign="top">
 
 \`\`\`yaml
-NAVEEN GANDHAM:
+NAVEEN:
   role: "AWS DevOps Engineer"
   focus: ["Cloud Infrastructure", "CI/CD Automation", "Containerization"]
   currently_exploring: ["Terraform", "Kubernetes", "Docker", "AWS", "DevOps"]
