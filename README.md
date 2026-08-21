@@ -24,14 +24,14 @@
 <tr>
 <td width="60%" valign="top">
 
-\`\`\`yaml
+
 NAVEEN:
   role: "AWS DevOps Engineer"
   focus: ["Cloud Infrastructure", "CI/CD Automation", "Containerization"]
   currently_exploring: ["Terraform", "Kubernetes", "Docker", "AWS", "DevOps"]
   philosophy: "Automate everything that can be automated."
   fun_fact: "I speak fluent YAML."
-\`\`\`
+
 
 - 🔭 Experienced **AWS DevOps Engineer** focused on building reliable, scalable, and automated cloud infrastructure.
 - ⚙️ Skilled in CI/CD pipelines, containerization, and cloud-native deployments across the full stack.
