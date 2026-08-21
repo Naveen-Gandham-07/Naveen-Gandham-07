@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Automating+Infrastructure+with+AWS+%26+DevOps;Building+Scalable+CI%2FCD+Pipelines;Infrastructure+as+Code+%7C+Docker+%7C+Kubernetes;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Automating+Infrastructure+with+AWS+%26+DevOps;Building+Scalable+CI%2FCD+Pipelines;Containers+%7C+Kubernetes+%7C+Infrastructure+as+Code;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
@@ -24,19 +24,18 @@
 <tr>
 <td width="60%" valign="top">
 
-```yaml
-naveen:
+\`\`\`yaml
+NAVEEN GANDHAM:
   role: "AWS DevOps Engineer"
-  location: "India 🇮🇳"
   focus: ["Cloud Infrastructure", "CI/CD Automation", "Containerization"]
-  currently_exploring: ["AI", "System Design", "Advanced AWS"]
+  currently_exploring: ["Terraform", "Kubernetes", "Docker", "AWS", "DevOps"]
   philosophy: "Automate everything that can be automated."
   fun_fact: "I speak fluent YAML."
-```
+\`\`\`
 
 - 🔭 Experienced **AWS DevOps Engineer** focused on building reliable, scalable, and automated cloud infrastructure.
-- ⚙️ Skilled in CI/CD pipelines, containerization, Infrastructure as Code, and cloud-native deployments.
-- 🌱 Deepening expertise in **AI, System Design, Docker, AWS & DevOps** practices.
+- ⚙️ Skilled in CI/CD pipelines, containerization, and cloud-native deployments across the full stack.
+- 🌱 Deepening expertise in **Docker, AWS & DevOps** practices.
 - 🤝 Open to collaborating on cloud automation, DevOps tooling, and full-stack projects.
 - 📫 Reach me at **naveengandham0706@email.com**
 
@@ -57,25 +56,24 @@ naveen:
 
 **Languages & Markup**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
 
-**Frameworks & Libraries**
+**Frameworks & Runtime**
 
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
 
-**Databases**
+**Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,kubernetes&theme=dark" />
 
 **Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 
@@ -116,7 +114,7 @@ naveen:
 
 **Automated deployment pipeline** using AWS, Docker & Jenkins with zero-downtime releases and rollback support.
 
-`AWS` `Docker` `Jenkins` `Terraform`
+\`AWS\` \`Docker\` \`Jenkins\` \`Terraform\`
 
 <a href="https://github.com/Naveen-Gandham-07"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -130,9 +128,9 @@ naveen:
 
 ### 🐳 Containerized Microservices
 
-**Multi-container app** orchestrated with Docker Compose & Kubernetes, featuring service discovery and auto-scaling.
+**Multi-container app** orchestrated with Docker & Kubernetes, featuring service discovery and auto-scaling.
 
-`Docker` `Kubernetes` `Node.js` `MongoDB`
+\`Docker\` \`Kubernetes\` \`Python\` \`MySQL\`
 
 <a href="https://github.com/Naveen-Gandham-07"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -148,7 +146,7 @@ naveen:
 
 **End-to-end web application** built with React, Node.js & MySQL, deployed on AWS with CI/CD automation.
 
-`React` `Express.js` `MySQL` `AWS`
+\`React\` \`Node.js\` \`MySQL\` \`AWS\`
 
 <a href="https://github.com/Naveen-Gandham-07"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -169,8 +167,6 @@ naveen:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/System_Design-0f172a?style=for-the-badge&logo=architecture&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/DevOps-0f172a?style=for-the-badge&logo=devdotto&logoColor=38bdf8"/>
