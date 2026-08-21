@@ -25,7 +25,7 @@
 <td width="60%" valign="top">
 
 
-NAVEEN:
+NAVEEN GANDHAM:
 
   role: "AWS DevOps Engineer"
   focus: ["Cloud Infrastructure", "CI/CD Automation", "Containerization"]
